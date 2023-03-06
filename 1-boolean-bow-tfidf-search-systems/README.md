@@ -1,0 +1,1 @@
+# Buscador Booleano/bag-of-words e buscador com TF-IDF
