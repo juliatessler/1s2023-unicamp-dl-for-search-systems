@@ -9,6 +9,6 @@ The folders contain my code work for each week's project:
 ## Paper slides
 - **Week 1:** [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) (Jimmy Lin, Rodrigo Nogueira, Andrew Yates), Chapter 1.
     - [Slides](https://docs.google.com/presentation/d/1SJ_OULwALFp7mVzEieSE_aOpIgyjihdVDiNtJikhjco/edit?usp=sharing)
-- **Week 2:@** [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) (Jimmy Lin, Rodrigo Nogueira, Andrew Yates), Chapter 3 to 3.2.2.
+- **Week 2:** [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) (Jimmy Lin, Rodrigo Nogueira, Andrew Yates), Chapter 3 to 3.2.2.
     - [Slides](https://docs.google.com/presentation/d/1Vn8C5-BCZI31AY2ZZshyZsBh6i98ZmCyzxfjpUEDg-c/edit?usp=sharing)
 
