@@ -7,6 +7,7 @@ The folders contain my code work for each week's project:
 - **Week 3:** Cross-Encoder: Text Classification and Reranking
 - **Week 4:** Zero and Few-Shot Learning
 - **Week 5:** Training a language model
+- **Week 6:** doc2query and docTTTTTquery
 
 ## Paper slides
 - **Week 2:** [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) (Jimmy Lin, Rodrigo Nogueira, Andrew Yates), Chapter 1.
@@ -17,3 +18,5 @@ The folders contain my code work for each week's project:
     - [Slides](https://docs.google.com/presentation/d/16_cVA7MpEWlsBS5YQWXlv9_UBu4h6nBTgizEs0TZ1X8/edit?usp=sharing)
 - **Week 5:** [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) (OpenAI)
     - [Slides](https://docs.google.com/presentation/d/1tPUtDB9VhNMx32PfTXt02OXJ0S0zTOz2O5hW4WccNek/edit#slide=id.p)
+- **Week 6:** [Document Expansion by Query Prediction](https://arxiv.org/pdf/1904.08375.pdf) (Nogueira et al 2019) & [From doc2query to docTTTTTquery](https://www.researchgate.net/profile/Rodrigo-Nogueira-19/publication/360890853_From_doc2query_to_docTTTTTquery/links/6290b0e98d19206823dfcc55/From-doc2query-to-docTTTTTquery.pdf) (Nogueira & Lin 2019)
+    - [Slides](https://docs.google.com/presentation/d/1xcbZqzDtWGlgisLjoxU7ACSN-UUoXFNWEQ5OH8HanxY/edit?usp=sharing)
