@@ -8,6 +8,7 @@ The folders contain my code work for each week's project:
 - **Week 4:** Zero and Few-Shot Learning
 - **Week 5:** Training a language model
 - **Week 6:** doc2query and docTTTTTquery
+- **Week 7:** Dense Passage Retrieval for Open Domain Question Answering
 
 ## Paper slides
 - **Week 2:** [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) (Jimmy Lin, Rodrigo Nogueira, Andrew Yates), Chapter 1.
@@ -20,3 +21,5 @@ The folders contain my code work for each week's project:
     - [Slides](https://docs.google.com/presentation/d/1tPUtDB9VhNMx32PfTXt02OXJ0S0zTOz2O5hW4WccNek/edit#slide=id.p)
 - **Week 6:** [Document Expansion by Query Prediction](https://arxiv.org/pdf/1904.08375.pdf) (Nogueira et al 2019) & [From doc2query to docTTTTTquery](https://www.researchgate.net/profile/Rodrigo-Nogueira-19/publication/360890853_From_doc2query_to_docTTTTTquery/links/6290b0e98d19206823dfcc55/From-doc2query-to-docTTTTTquery.pdf) (Nogueira & Lin 2019)
     - [Slides](https://docs.google.com/presentation/d/1xcbZqzDtWGlgisLjoxU7ACSN-UUoXFNWEQ5OH8HanxY/edit?usp=sharing)
+- **Week 7:** [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2004.04906.pdf) & [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832.pdf)
+    - [Slides](https://docs.google.com/presentation/d/12YhJIRNP6YW5Z2nXYJh4E7d2WPLtPuo0LWJPMV60ubY/edit?usp=sharing)
