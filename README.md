@@ -9,6 +9,7 @@ The folders contain my code work for each week's project:
 - **Week 5:** Training a language model
 - **Week 6:** doc2query and docTTTTTquery
 - **Week 7:** Dense Passage Retrieval for Open Domain Question Answering
+- **Week 8:** SPLADE
 
 ## Paper slides
 - **Week 2:** [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) (Jimmy Lin, Rodrigo Nogueira, Andrew Yates), Chapter 1.
@@ -23,3 +24,5 @@ The folders contain my code work for each week's project:
     - [Slides](https://docs.google.com/presentation/d/1xcbZqzDtWGlgisLjoxU7ACSN-UUoXFNWEQ5OH8HanxY/edit?usp=sharing)
 - **Week 7:** [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/pdf/2004.04906.pdf) & [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT](https://arxiv.org/pdf/2004.12832.pdf)
     - [Slides](https://docs.google.com/presentation/d/12YhJIRNP6YW5Z2nXYJh4E7d2WPLtPuo0LWJPMV60ubY/edit?usp=sharing)
+- **Week 8:** [SPLADE](https://arxiv.org/pdf/2107.05720.pdf) & [SPLADE v2](https://arxiv.org/pdf/2109.10086.pdf): Sparse Lexical and Expansion Model for Information Retrieval (Formal et al 2021; Formal et al 2021)
+    -[Slides](https://docs.google.com/presentation/d/1dqB-UpLECiDBt1bgsrebcBWd4u6VP2huOI-vRXweyxQ/edit?usp=sharing)
