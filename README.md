@@ -10,6 +10,8 @@ The folders contain my code work for each week's project:
 - **Week 6:** doc2query and docTTTTTquery
 - **Week 7:** Dense Passage Retrieval for Open Domain Question Answering
 - **Week 8:** SPLADE
+- **Week 9:** InPars
+- **Week 10:** Trade-offs between computation & latency
 
 ## Paper slides
 - **Week 2:** [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467) (Jimmy Lin, Rodrigo Nogueira, Andrew Yates), Chapter 1.
@@ -26,3 +28,5 @@ The folders contain my code work for each week's project:
     - [Slides](https://docs.google.com/presentation/d/12YhJIRNP6YW5Z2nXYJh4E7d2WPLtPuo0LWJPMV60ubY/edit?usp=sharing)
 - **Week 8:** [SPLADE](https://arxiv.org/pdf/2107.05720.pdf) & [SPLADE v2](https://arxiv.org/pdf/2109.10086.pdf): Sparse Lexical and Expansion Model for Information Retrieval (Formal et al 2021; Formal et al 2021)
     -[Slides](https://docs.google.com/presentation/d/1dqB-UpLECiDBt1bgsrebcBWd4u6VP2huOI-vRXweyxQ/edit?usp=sharing)
+- **Week 9:** [InPars: Data Augmentation for Information Retrieval](https://arxiv.org/pdf/2202.05144.pdf) & [InPars v2: Large Language Models as Efficient Dataset Generators for Information Retrieval](https://arxiv.org/pdf/2301.01820.pdf): Sparse Lexical and Expansion Model for Information Retrieval (Bonifacio et al 2022; Jeronymo et al 2023)
+    -[Slides](https://docs.google.com/presentation/d/1X7FNT4K_G6a2jrNmUzJsurqJ677hWuCTiIGO6hdeEtc/edit?usp=sharing)
