@@ -30,3 +30,5 @@ The folders contain my code work for each week's project:
     -[Slides](https://docs.google.com/presentation/d/1dqB-UpLECiDBt1bgsrebcBWd4u6VP2huOI-vRXweyxQ/edit?usp=sharing)
 - **Week 9:** [InPars: Data Augmentation for Information Retrieval](https://arxiv.org/pdf/2202.05144.pdf) & [InPars v2: Large Language Models as Efficient Dataset Generators for Information Retrieval](https://arxiv.org/pdf/2301.01820.pdf): Sparse Lexical and Expansion Model for Information Retrieval (Bonifacio et al 2022; Jeronymo et al 2023)
     -[Slides](https://docs.google.com/presentation/d/1X7FNT4K_G6a2jrNmUzJsurqJ677hWuCTiIGO6hdeEtc/edit?usp=sharing)
+- **Week 10:** [ColBERT v2: Effective and Efficient Retrieval via Lightweight Late Interaction](https://arxiv.org/pdf/2112.01488.pdf) (Santhanam et al 2022)
+    - [Slides](https://docs.google.com/presentation/d/1Iqsvtxa9UsCCPJ2iy3BtJKcJH3rqPzgpzKywUtIzxeY/edit?usp=sharing)
